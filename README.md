@@ -39,7 +39,10 @@
 <br/>
 <sub>RAG-Powered Personal Finance AI</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" height="30"/>
 <br/><br/>
 <a href="https://github.com/Saikrishna-Paila/finance-advisor-agent">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,7 +55,10 @@
 <br/>
 <sub>ReAct Agent with Deep Web Research</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="30"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="30"/>
 <br/><br/>
 <a href="https://github.com/Saikrishna-Paila/autonomous-research-agent">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,7 +73,10 @@
 <br/>
 <sub>AI-Powered Code Review SDK</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" height="30"/>
+<img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="30"/>
+<img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" height="30"/>
 <br/><br/>
 <a href="https://github.com/Saikrishna-Paila/paila-ai-code-review-sdk">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
