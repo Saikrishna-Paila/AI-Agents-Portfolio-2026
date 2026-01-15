@@ -127,60 +127,141 @@
 
 <br/>
 
-### 🧠 AI & LLM Layer
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
+<table>
+<tr>
+<td align="center" colspan="6"><h3>🧠 AI & LLM Layer</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<br/><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="50" height="50" alt="Anthropic"/>
+<br/><b>Claude AI</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" width="50" height="50" alt="Groq"/>
+<br/><b>Groq</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/>
+<br/><b>LangChain</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="50" height="50" alt="LlamaIndex"/>
+<br/><b>LlamaIndex</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="50" height="50" alt="CrewAI"/>
+<br/><b>CrewAI</b>
+</td>
+</tr>
+</table>
+
 <br/>
-<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white"/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" colspan="4"><h3>⚡ Backend Layer</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
+<br/><b>FastAPI</b>
+</td>
+<td align="center" width="120">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" alt="Streamlit"/>
+<br/><b>Streamlit</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
+<br/><b>Flask</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" alt="WebSocket"/>
+<br/><b>WebSocket</b>
+</td>
+</tr>
+</table>
 
-### 🔗 Frameworks & Protocols
-<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReAct-FF9500?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multi--Agent-E91E63?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
-
-### ⚡ Backend Layer
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" height="50"/>
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" colspan="4"><h3>🎨 Frontend Layer</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br/><b>React</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+<br/><b>TypeScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind"/>
+<br/><b>Tailwind</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite"/>
+<br/><b>Vite</b>
+</td>
+</tr>
+</table>
 
-### 🎨 Frontend Layer
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" height="50"/>
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" colspan="4"><h3>🗄️ Database & Vector Layer</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+<br/><b>PostgreSQL</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="50" height="50" alt="Qdrant"/>
+<br/><b>Qdrant</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
+<br/><b>Redis</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+<br/><b>MongoDB</b>
+</td>
+</tr>
+</table>
 
-### 🗄️ Database & Vector Layer
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" height="50"/>
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-24B47E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_Search-FF6F00?style=for-the-badge&logoColor=white"/>
 
-<br/><br/>
-
-### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" height="50"/>
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<table>
+<tr>
+<td align="center" colspan="4"><h3>🚀 DevOps & Tools</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+<br/><b>Docker</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<br/><b>Git</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<br/><b>GitHub</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+<br/><b>VS Code</b>
+</td>
+</tr>
+</table>
 
 </div>
 
