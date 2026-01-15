@@ -181,11 +181,11 @@
 <br/><b>Streamlit</b>
 </td>
 <td align="center" width="120">
-<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" width="50" height="50" alt="Flask"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50" alt="Flask"/>
 <br/><b>Flask</b>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="50" height="50" alt="WebSocket"/>
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="50" height="50" alt="WebSocket"/>
 <br/><b>WebSocket</b>
 </td>
 </tr>
