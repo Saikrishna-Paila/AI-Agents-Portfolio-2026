@@ -30,13 +30,6 @@
 
 <br/>
 
-<!-- PROJECT 1 -->
-<a href="https://github.com/Saikrishna-Paila/finance-advisor-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saikrishna-Paila&repo=finance-advisor-agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F8D866&text_color=FFFFFF" />
-</a>
-
-<br/><br/>
-
 <table>
 <tr>
 <td align="center">
