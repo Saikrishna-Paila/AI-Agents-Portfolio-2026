@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700">
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 <br/>
 <sub>RAG-Powered Personal Finance AI</sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,streamlit&theme=dark" height="30"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/>
 <br/><br/>
 <a href="https://github.com/Saikrishna-Paila/finance-advisor-agent">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -116,7 +116,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700">
 </div>
 
 <br/>
@@ -147,7 +147,7 @@
 <br/><br/>
 
 ### ⚡ Backend Layer
-<img src="https://skillicons.dev/icons?i=fastapi,flask,python&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" height="50"/>
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -187,7 +187,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700">
 </div>
 
 <br/>
@@ -218,7 +218,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700">
 </div>
 
 <br/>
@@ -253,7 +253,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700">
 </div>
 
 <br/>
