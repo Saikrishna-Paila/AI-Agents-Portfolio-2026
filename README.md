@@ -169,10 +169,6 @@
 <br/><b>LangChain</b>
 </td>
 <td align="center" width="80">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangGraph"/>
-<br/><b>LangGraph</b>
-</td>
-<td align="center" width="80">
 <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="50" height="50" alt="LlamaIndex"/>
 <br/><b>LlamaIndex</b>
 </td>
@@ -183,6 +179,10 @@
 <td align="center" width="80">
 <img src="https://raw.githubusercontent.com/langfuse/langfuse/main/web/public/icon.svg" width="50" height="50" alt="Langfuse"/>
 <br/><b>Langfuse</b>
+</td>
+<td align="center" width="80">
+<img src="https://avatars.githubusercontent.com/u/149677383?s=200&v=4" width="50" height="50" alt="RAGAS"/>
+<br/><b>RAGAS</b>
 </td>
 </tr>
 </table>
