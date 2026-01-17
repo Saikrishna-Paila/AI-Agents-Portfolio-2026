@@ -97,7 +97,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/>
 <br/>
 <strong>05 | AI Customer Support</strong>
@@ -107,6 +107,19 @@
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,redis,docker&theme=dark" height="30"/>
 <br/><br/>
 <a href="https://github.com/Saikrishna-Paila/ai-customer-support-mcp">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="60"/>
+<br/>
+<strong>06 | AI Database Chat</strong>
+<br/>
+<sub>Text-to-SQL/MongoDB Query Engine</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,docker&theme=dark" height="30"/>
+<br/><br/>
+<a href="https://github.com/Saikrishna-Paila/ai-database-chat">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
@@ -169,22 +182,26 @@
 
 <table>
 <tr>
-<td align="center" colspan="4"><h3>⚡ Backend Layer</h3></td>
+<td align="center" colspan="5"><h3>⚡ Backend Layer</h3></td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
 <br/><b>FastAPI</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" alt="Streamlit"/>
 <br/><b>Streamlit</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" width="50" height="50" alt="Chainlit"/>
+<br/><b>Chainlit</b>
+</td>
+<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/flask/ffffff" width="50" height="50" alt="Flask"/>
 <br/><b>Flask</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="50" height="50" alt="WebSocket"/>
 <br/><b>WebSocket</b>
 </td>
@@ -247,22 +264,26 @@
 
 <table>
 <tr>
-<td align="center" colspan="4"><h3>🚀 DevOps & Tools</h3></td>
+<td align="center" colspan="5"><h3>🚀 DevOps & Tools</h3></td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 <br/><b>Docker</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 <br/><b>Git</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50" height="50" alt="GitHub"/>
 <br/><b>GitHub</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/langfuse/langfuse/main/web/public/icon.svg" width="50" height="50" alt="Langfuse"/>
+<br/><b>Langfuse</b>
+</td>
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 <br/><b>VS Code</b>
 </td>
@@ -323,7 +344,7 @@
 | 03 | [Paila SDK](https://github.com/Saikrishna-Paila/paila-ai-code-review-sdk) | ✅ Complete | Multi-LLM, AST Analysis |
 | 04 | [Smart Recruiter](https://github.com/Saikrishna-Paila/smart-recruiter-agent) | ✅ Complete | CrewAI, Multi-Agent |
 | 05 | [AI Customer Support](https://github.com/Saikrishna-Paila/ai-customer-support-mcp) | ✅ Complete | MCP, Claude, RAG |
-| 06 | Coming Soon | 🔜 | - |
+| 06 | [AI Database Chat](https://github.com/Saikrishna-Paila/ai-database-chat) | ✅ Complete | Text-to-SQL, MCP, Langfuse |
 | 07 | Coming Soon | 🔜 | - |
 | 08 | Coming Soon | 🔜 | - |
 | 09 | Coming Soon | 🔜 | - |
@@ -333,7 +354,7 @@
 
 <br/>
 
-<img src="https://progress-bar.dev/42/?title=Projects%20Completed&width=400&color=6C63FF" />
+<img src="https://progress-bar.dev/50/?title=Projects%20Completed&width=400&color=6C63FF" />
 
 </div>
 
