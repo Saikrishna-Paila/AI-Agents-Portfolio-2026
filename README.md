@@ -144,34 +144,38 @@
 
 <table>
 <tr>
-<td align="center" colspan="7"><h3>🧠 AI & LLM Layer</h3></td>
+<td align="center" colspan="8"><h3>🧠 AI & LLM Layer</h3></td>
 </tr>
 <tr>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 <br/><b>Python</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="50" height="50" alt="Anthropic"/>
 <br/><b>Claude AI</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="50" height="50" alt="OpenAI"/>
 <br/><b>OpenAI</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://raw.githubusercontent.com/groq/groq-api-cookbook/main/images/groq-logo.png" width="50" height="50" alt="Groq"/>
 <br/><b>Groq</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/>
 <br/><b>LangChain</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangGraph"/>
+<br/><b>LangGraph</b>
+</td>
+<td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="50" height="50" alt="LlamaIndex"/>
 <br/><b>LlamaIndex</b>
 </td>
-<td align="center" width="100">
+<td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" width="50" height="50" alt="CrewAI"/>
 <br/><b>CrewAI</b>
 </td>
