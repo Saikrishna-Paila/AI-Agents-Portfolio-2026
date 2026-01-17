@@ -182,12 +182,42 @@
 
 <table>
 <tr>
-<td align="center" colspan="5"><h3>⚡ Backend Layer</h3></td>
+<td align="center" colspan="4"><h3>⚡ Backend Layer</h3></td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
+<br/><b>FastAPI</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/flask/ffffff" width="50" height="50" alt="Flask"/>
+<br/><b>Flask</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="50" height="50" alt="WebSocket"/>
+<br/><b>WebSocket</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" alt="SQLAlchemy"/>
+<br/><b>SQLAlchemy</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" colspan="6"><h3>🎨 Frontend Layer</h3></td>
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
-<br/><b>FastAPI</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<br/><b>React</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+<br/><b>TypeScript</b>
 </td>
 <td align="center" width="100">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50" alt="Streamlit"/>
@@ -198,36 +228,10 @@
 <br/><b>Chainlit</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.simpleicons.org/flask/ffffff" width="50" height="50" alt="Flask"/>
-<br/><b>Flask</b>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="50" height="50" alt="WebSocket"/>
-<br/><b>WebSocket</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" colspan="4"><h3>🎨 Frontend Layer</h3></td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-<br/><b>React</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-<br/><b>TypeScript</b>
-</td>
-<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind"/>
 <br/><b>Tailwind</b>
 </td>
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite"/>
 <br/><b>Vite</b>
 </td>
