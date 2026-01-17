@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Robots/Robot.webp" alt="Robot" width="150" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4dWl3OHg4cGc2MjBrZjB4Z3g5MnJyOHBkOWdlZGduemR4dWh5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" alt="Robot" width="150" />
 
 <br/>
 
