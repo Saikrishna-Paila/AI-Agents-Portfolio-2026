@@ -181,7 +181,7 @@
 <br/><b>Langfuse</b>
 </td>
 <td align="center" width="80">
-<img src="https://avatars.githubusercontent.com/u/149677383?s=200&v=4" width="50" height="50" alt="RAGAS"/>
+<img src="https://avatars.githubusercontent.com/u/122604797?s=200&v=4" width="50" height="50" alt="RAGAS"/>
 <br/><b>RAGAS</b>
 </td>
 </tr>
