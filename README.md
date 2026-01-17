@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="150" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="AI Developer" width="150" />
 
 <br/>
 
@@ -363,7 +363,9 @@
 
 <br/>
 
-<img src="https://progress-bar.dev/50/?title=Projects%20Completed&width=400&color=6C63FF" />
+**6 / 12 Projects Completed**
+
+![Progress](https://geps.dev/progress/50?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF)
 
 </div>
 
