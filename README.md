@@ -13,7 +13,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Saikrishna-Paila?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6C63FF)](https://github.com/Saikrishna-Paila)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishnapaila)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/Saikrishna-Paila)
-[![Views](https://komarev.com/ghpvc/?username=Saikrishna-Paila&repo=AI-Agents-Portfolio-2026&color=6C63FF&style=for-the-badge&label=VIEWS)](https://github.com/Saikrishna-Paila/AI-Agents-Portfolio-2026)
+[![Views](https://komarev.com/ghpvc/?username=Saikrishna-Paila&repo=AI-Agents-Portfolio-2026-v2&color=6C63FF&style=for-the-badge&label=VIEWS)](https://github.com/Saikrishna-Paila/AI-Agents-Portfolio-2026)
 
 </div>
 
