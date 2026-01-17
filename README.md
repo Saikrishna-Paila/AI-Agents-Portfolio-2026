@@ -202,7 +202,7 @@
 <br/><b>WebSocket</b>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" alt="SQLAlchemy"/>
+<img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" width="50" height="50" alt="SQLAlchemy"/>
 <br/><b>SQLAlchemy</b>
 </td>
 </tr>
